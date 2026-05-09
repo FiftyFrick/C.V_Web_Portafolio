@@ -1,6 +1,10 @@
 # Portafolio_Web
-portafolio en Progreso
 
 https://github.com/FiftyFrick/Portafolio_Web.git
 
-git clone
+
+![muestras](imgMuestras/01.jpg)
+
+![muestras](imgMuestras/02.jpg)
+
+![muestras](imgMuestras/03.jpg)
